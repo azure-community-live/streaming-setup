@@ -22,3 +22,23 @@ It's important to download and extract these files to c:\acl\ since the paths in
 
 after all files are extracted open OBS studio, go to "Scene Collection" -> "Import" and select "acl scene collection.json"
 you should now be able to select the scene collection and you are ready to stream
+
+### YouTube
+
+Before we can stream to YouTube we have to connect OBS to YouTube. OBS Studio does not have the fancy YouTube integration that Streamlabs OBS has, so we have to do some stuff manually.
+
+First create a stream on YouTube.Com
+- Go to YouTube.com and log in using the Azure Community Live account
+- in the menu top right go to "YouTube Studio"
+- top right click on "Go Live"
+- create a new stream 
+- make sure the stream is UNLISTED if you are testing things out
+- copy the stream name/key
+
+Open OBS Studio
+- on the bottom right go to settings
+- select stream 
+- paste your stream name/key
+
+Now you are ready to start streaming
+- in OBS Studio click "Start Streaming" on the bottom right
