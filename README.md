@@ -16,7 +16,7 @@ install the following tools
 in Skype you need to enable NDI -> howto: https://www.skype.com/en/content-creators/
 
 ### OBS
-OBS Studio is the main tool to be used. Since OBS does not have any cloud storage like Streamlabs OBS we need to configure it on each PC of each host. Geert has created an initial set of Scenes and exported these. These + additional resources can be found on onedrive as a zip file called "streaming--resources.zip"
+OBS Studio is the main tool to be used. Since OBS does not have any cloud storage like Streamlabs OBS we need to configure it on each PC of each host. Geert has created an initial set of Scenes and exported these. These + additional resources can be found on onedrive as a zip file called "streaming-resources.zip"
 
 It's important to download and extract these files to c:\acl\ since the paths in the scenes are hardcoded paths and this way exporting and importing just works.
 
