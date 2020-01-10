@@ -31,9 +31,14 @@ First create a stream on YouTube.Com
 - Go to YouTube.com and log in using the Azure Community Live account
 - in the menu top right go to "YouTube Studio"
 - top right click on "Go Live"
+![go live](img/go-live-button.jpg)
 - create a new stream 
+![go live](img/youtube-new-stream.jpg)
 - make sure the stream is UNLISTED if you are testing things out
+![go live](img/youtube-create-stream.jpg)
 - copy the stream name/key
+![go live](img/youtube-stream-name-key.jpg)
+
 
 Open OBS Studio
 - on the bottom right go to settings
