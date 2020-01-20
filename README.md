@@ -21,7 +21,7 @@ OBS Studio is the main tool to be used. Since OBS does not have any cloud storag
 It's important to download and extract these files to c:\acl\ since the paths in the scenes are hardcoded paths and this way exporting and importing just works.
 
 after all files are extracted open OBS studio, go to "Scene Collection" -> "Import" and select "acl scene collection.json"
-you should now be able to select the scene collection and you are ready to stream
+you should now be able to select the scene collection and you are ready to stream.  To select the imported collection, go to "Scene Collection" -> Untitled2 (You may have multiple imported collections, so the name may be different.  After you select the scene collection, you should remove any other collections from the list, and rename the one that you imported so that it is not set as Untitled.  To do this, go to "Scene Collection" -> "Rename" once you select the imported collection. 
 
 ### YouTube
 
