@@ -48,6 +48,10 @@ Open OBS Studio
 Now you are ready to start streaming
 - in OBS Studio click "Start Streaming" on the bottom right
 
+> your stream won't be visible until you also GO LIVE on youtube. This gives you the chance to do some final checks if everything is working.
+
+> Starting the stream 15 minutes before we actually starts helps get more viewers since youtube sends an email to all subscribers. since not everyone reads their email instantly they get the email 15 minutes before start.
+
 - on Youtube stream management press GO LIVE (top right) as soon as you want to make the stream you are sending to youtube public
 
 ![go live](img/youtube-go-live.jpg)
