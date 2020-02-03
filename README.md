@@ -47,3 +47,10 @@ Open OBS Studio
 
 Now you are ready to start streaming
 - in OBS Studio click "Start Streaming" on the bottom right
+
+- on Youtube stream management press GO LIVE (top right) as soon as you want to make the stream you are sending to youtube public
+
+![go live](img/youtube-go-live.jpg)
+
+
+- ending the stream works on the same way as starting. press the END STREAM button (top right) where the GO LIVE button was
